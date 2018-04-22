@@ -1,0 +1,2 @@
+## Data Wrangling and Analysis Project (Python/Twitter API) - WeRateDogs Twitter Feed
+I this project, I gathered, cleaned and tidied a dataset of tweets from Twitter user @dog_rates, also known as WeRateDogs. The data was gathered in Python using Twitter's API. Python libraries (e.g. Pandas, Numpy, Requests, JSON, Tweepy) were used to store and wrangle the data programmatically and prepare it for deeper analysis. Visualisations were then created in a Jupyter Notebook using Matplotlib and Seaborn libraries.
